@@ -12,7 +12,8 @@
 
 ## 게임 화면
 
-* 첫 화면-4인이 될때 까지 기다린다.![1](/Users/parkseongchan/Desktop/Squid Game/img/1.png)
+* 첫 화면-4인이 될때 까지 기다린다.
+
 
   
 
