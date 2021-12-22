@@ -18,19 +18,14 @@
 
 
 
-* 게임 화면![스크린샷 2021-12-22 오후 6.06.42](/Users/parkseongchan/Desktop/Squid Game/img/스크린샷 2021-12-22 오후 6.06.42.png)
+* 게임 화면
 
-  ![스크린샷 2021-12-22 오후 6.06.54](/Users/parkseongchan/Desktop/Squid Game/img/스크린샷 2021-12-22 오후 6.06.54.png)
-
-  ![스크린샷 2021-12-22 오후 6.07.04](/Users/parkseongchan/Desktop/Squid Game/img/스크린샷 2021-12-22 오후 6.07.04.png)
-
-  ![스크린샷 2021-12-22 오후 6.07.17](/Users/parkseongchan/Desktop/Squid Game/img/스크린샷 2021-12-22 오후 6.07.17.png)
 
 
 
 ## 시스템 구성도
 
-![스크린샷 2021-12-22 오후 6.16.25](/Users/parkseongchan/Library/Application Support/typora-user-images/스크린샷 2021-12-22 오후 6.16.25.png)
+
 
 ## Protocol table
 
@@ -49,13 +44,6 @@
 
 ## 시스템 흐름도
 
-![스크린샷 2021-12-22 오후 6.21.18](/Users/parkseongchan/Desktop/Squid Game/img/스크린샷 2021-12-22 오후 6.21.18.png)
-
-![스크린샷 2021-12-22 오후 6.22.11](/Users/parkseongchan/Library/Application Support/typora-user-images/스크린샷 2021-12-22 오후 6.22.11.png)
-
-![스크린샷 2021-12-22 오후 6.22.34](/Users/parkseongchan/Library/Application Support/typora-user-images/스크린샷 2021-12-22 오후 6.22.34.png)
-
-![스크린샷 2021-12-22 오후 6.22.56](/Users/parkseongchan/Desktop/Squid Game/img/스크린샷 2021-12-22 오후 6.22.56.png)
 
 
 
