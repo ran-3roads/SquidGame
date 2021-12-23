@@ -13,7 +13,7 @@
 ## 게임 화면
 
 * 첫 화면-4인이 될때 까지 기다린다.
-
+<img width="726" alt="1" src="https://user-images.githubusercontent.com/66467266/147194895-a64ab5c7-b4ec-4f54-96a4-c1a1bfcd14cb.png">
 
   
 
@@ -21,10 +21,13 @@
 
 * 게임 화면
 
+<img width="711" alt="스크린샷 2021-12-22 오후 6 06 42" src="https://user-images.githubusercontent.com/66467266/147194987-ae3970eb-cdc1-4d9e-883e-ab035b468aba.png">
 
+<img width="803" alt="스크린샷 2021-12-22 오후 6 07 17" src="https://user-images.githubusercontent.com/66467266/147195043-b5be14bc-20a6-466c-bb53-0a7b6e9ff611.png">
 
 
 ## 시스템 구성도
+<img width="1117" alt="스크린샷 2021-12-23 오후 2 56 57" src="https://user-images.githubusercontent.com/66467266/147195156-872537a4-e2d9-4758-9e22-c911b72cb522.png">
 
 
 
@@ -44,6 +47,10 @@
 | 999      | Game Over and ranking | Server  -> Client |
 
 ## 시스템 흐름도
+<img width="987" alt="스크린샷 2021-12-22 오후 6 21 18" src="https://user-images.githubusercontent.com/66467266/147195306-03ecf818-e514-493b-86b2-cd65251832fa.png">
+<img width="949" alt="스크린샷 2021-12-22 오후 6 22 56" src="https://user-images.githubusercontent.com/66467266/147195359-61a2c3df-4862-4b04-8b9f-f5a73694e3c3.png">
+<img width="1097" alt="스크린샷 2021-12-23 오후 2 58 31" src="https://user-images.githubusercontent.com/66467266/147195398-cd076d4e-4ae8-41fe-9fc2-13ee513bc950.png">
+<img width="1114" alt="스크린샷 2021-12-23 오후 2 58 46" src="https://user-images.githubusercontent.com/66467266/147195429-2994e15d-a040-484e-9497-b414421b2c80.png">
 
 
 
